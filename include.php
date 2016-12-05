@@ -1,0 +1,12 @@
+<?php
+require_once('class/cCurlTools.php');
+require_once('class/Raspberry.php');
+require_once('class/Messages.php');
+require_once('class/Command.php');
+require_once('class/cMysql.php');
+require_once('class/cException.php');
+require_once('class/SlackApiAccessToken.php');
+require_once('class/SlackApi.php');
+require_once('class/SlackMessaging.php');
+require_once('class/App.php');
+require_once('config.php');
