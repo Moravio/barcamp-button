@@ -18,4 +18,4 @@ define('DB_PORT',   '3307');
 
 define('EXCEPTION_SET_NOT_SEND_EXCEPTION_TO_GLOBAL_REPORTING', true); // pokud TRUE, tak se nebude posilat do globalniho reportingu, standardne FALSE
 define('EXCEPTION_SET_SHOW_ERROR_MESSAGE', true); //zobrazovat popis chyby , standardne FALSE
-define('EXCEPTION_SET_ERROR_MAIL_ADDRESS', '[here-email]'); // mail pro zasilani chyb, standardne err@religis.cz
+define('EXCEPTION_SET_ERROR_MAIL_ADDRESS', '[here-email]'); // mail pro zasilani chyb
